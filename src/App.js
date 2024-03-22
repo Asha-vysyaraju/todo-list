@@ -2,7 +2,8 @@ import './App.css';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { useState, useEffect } from "react"
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import { useState, useEffect } from "react";
 import { Card } from './Card';
 
 function App() {
