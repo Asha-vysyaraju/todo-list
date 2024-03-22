@@ -1,3 +1,11 @@
+Created Todo Task with task name , Description & status
+You can add task by giving name and description and click on Add Todo button
+By default the status will be set to Not completed for a created todo. You can change the status of any added todos to Completed by using status dropdown 
+You can update and delete created todos by using two buttons edit and Delete.
+You can filter todos depending on status Completed,Not completd or all by using status filter dropdown 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
